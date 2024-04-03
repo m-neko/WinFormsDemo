@@ -100,6 +100,7 @@
             btnCppCliDll.TabIndex = 4;
             btnCppCliDll.Text = "C++/CLI DLL";
             btnCppCliDll.UseVisualStyleBackColor = true;
+            btnCppCliDll.Click += btnCppCliDll_Click;
             // 
             // btnCSharpDll
             // 

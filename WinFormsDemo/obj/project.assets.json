@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
+      "CLRLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CLRLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLRLibrary.dll": {}
+        }
+      },
       "ManagedLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -25,6 +35,11 @@
     }
   },
   "libraries": {
+    "CLRLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CLRLibrary/CLRLibrary.vcxproj",
+      "msbuildProject": "../CLRLibrary/CLRLibrary.vcxproj"
+    },
     "ManagedLibrary/1.0.0": {
       "type": "project",
       "path": "../ManagedLibrary/ManagedLibrary.csproj",
@@ -38,6 +53,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "CLRLibrary >= 1.0.0",
       "ManagedLibrary >= 1.0.0",
       "VbManagedLibrary >= 1.0.0"
     ]
@@ -75,6 +91,9 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
+            "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.vcxproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.vcxproj"
+            },
             "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\ManagedLibrary.csproj": {
               "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\ManagedLibrary.csproj"
             },

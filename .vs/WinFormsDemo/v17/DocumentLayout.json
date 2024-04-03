@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EF3C8-71FA-4220-8D10-DB7B9B255EC8}|CLRLibrary\\CLRLibrary.vcxproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A74EF3C8-71FA-4220-8D10-DB7B9B255EC8}|CLRLibrary\\CLRLibrary.vcxproj|solutionrelative:CLRLibrary\\CLRLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EF3C8-71FA-4220-8D10-DB7B9B255EC8}|CLRLibrary\\CLRLibrary.vcxproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A74EF3C8-71FA-4220-8D10-DB7B9B255EC8}|CLRLibrary\\CLRLibrary.vcxproj|solutionrelative:CLRLibrary\\CLRLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE22331B-9401-4983-BC40-B76666F55962}|ManagedLibrary\\ManagedLibrary.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\managedlibrary\\dllclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE22331B-9401-4983-BC40-B76666F55962}|ManagedLibrary\\ManagedLibrary.csproj|solutionrelative:managedlibrary\\dllclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,29 +30,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmChild.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
-              "RelativeDocumentMoniker": "WinFormsDemo\\FrmChild.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
-              "RelativeToolTip": "WinFormsDemo\\FrmChild.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T00:42:19.029Z",
-              "IsPinned": true,
+              "DocumentIndex": 2,
+              "Title": "CLRLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.cpp",
+              "RelativeDocumentMoniker": "CLRLibrary\\CLRLibrary.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.cpp",
+              "RelativeToolTip": "CLRLibrary\\CLRLibrary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T03:32:33.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DllClass.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\DllClass.cs",
-              "RelativeDocumentMoniker": "ManagedLibrary\\DllClass.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\DllClass.cs",
-              "RelativeToolTip": "ManagedLibrary\\DllClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:47:42.445Z",
+              "DocumentIndex": 1,
+              "Title": "CLRLibrary.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.h",
+              "RelativeDocumentMoniker": "CLRLibrary\\CLRLibrary.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\CLRLibrary\\CLRLibrary.h",
+              "RelativeToolTip": "CLRLibrary\\CLRLibrary.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T03:31:53.854Z",
               "EditorCaption": ""
             },
             {
@@ -67,14 +62,14 @@
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmMain.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmMain.cs",
               "RelativeToolTip": "WinFormsDemo\\FrmMain.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAADQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:59:02.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmMain.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmMain.cs",
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmMain.cs",
@@ -82,18 +77,6 @@
               "RelativeToolTip": "WinFormsDemo\\FrmMain.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:41:11.07Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmChild.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
-              "RelativeDocumentMoniker": "WinFormsDemo\\FrmChild.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "WinFormsDemo\\FrmChild.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T00:35:59.181Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             }
           ]

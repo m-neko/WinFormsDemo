@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 using ManagedLibrary;
 using VbManagedLibrary;
+using CLRLibrary;
 
 namespace WinFormsDemo
 {
@@ -50,6 +51,14 @@ namespace WinFormsDemo
             VbDllClass dllClass = new VbDllClass();
             int num = dllClass.addIntNum(8, 4);
             MessageBox.Show("8 + 4 = " + num, "VB.NET マネージド DLL からの呼出");
+        }
+
+        private void btnCppCliDll_Click(object sender, EventArgs e)
+        {
+            DllCLRClass dllCLRClass = new DllCLRClass();
+            int num = dllCLRClass.addIntNum(7, 9);
+            MessageBox.Show("7 + 9 = " + num, "C++/CLI DLL からの呼出");
+            dllCLRClass.showMessage();
         }
     }
 }

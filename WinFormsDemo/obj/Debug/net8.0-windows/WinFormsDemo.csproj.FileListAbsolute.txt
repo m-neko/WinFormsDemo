@@ -22,3 +22,6 @@ C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\obj
 C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\obj\Debug\net8.0-windows\WinForms.B81CCBBD.Up2Date
 C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\VbManagedLibrary.dll
 C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\VbManagedLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\Ijwhost.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\CLRLibrary.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\CLRLibrary.pdb

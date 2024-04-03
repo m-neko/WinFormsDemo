@@ -7,11 +7,15 @@
 #### 主な機能
 
 * 子ウインドウから親ウインドウを操作する例
+* 各種DLLを呼び出す例
 
 #### 開発環境
 
 * Microsoft Visual Studio Community 2022 Version 17.9.1
-* C#
+* C# 
+* VB.NET
+* C++/CLI
+* C++
 
 #### thanks
 

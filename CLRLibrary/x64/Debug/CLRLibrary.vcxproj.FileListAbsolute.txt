@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\x64\Debug\Ijwhost.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\x64\Debug\CLRLibrary.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\x64\Debug\CLRLibrary.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\CLRLibrary\x64\Debug\CLRLibrary.sourcelink.json
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\CLRLibrary\x64\Debug\CLRLibrary.genruntimeconfig.cache
