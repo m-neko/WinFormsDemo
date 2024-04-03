@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\bin\Debug\net8.0\ManagedLibrary.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\bin\Debug\net8.0\ManagedLibrary.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\bin\Debug\net8.0\ManagedLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.sourcelink.json
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\refint\ManagedLibrary.dll
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ManagedLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\ManagedLibrary\obj\Debug\net8.0\ref\ManagedLibrary.dll

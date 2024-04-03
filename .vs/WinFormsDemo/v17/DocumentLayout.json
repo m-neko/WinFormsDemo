@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE22331B-9401-4983-BC40-B76666F55962}|ManagedLibrary\\ManagedLibrary.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\managedlibrary\\dllclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE22331B-9401-4983-BC40-B76666F55962}|ManagedLibrary\\ManagedLibrary.csproj|solutionrelative:managedlibrary\\dllclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|c:\\users\\user\\documents\\visual studio 2022\\project\\winformsdemo\\winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE6B73C-B2D2-4132-850A-D6CD2827A770}|WinFormsDemo\\WinFormsDemo.csproj|solutionrelative:winformsdemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmChild.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmChild.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
               "RelativeToolTip": "WinFormsDemo\\FrmChild.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAADoAAAA+AAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:42:19.029Z",
               "IsPinned": true,
@@ -44,20 +48,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "DllClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\DllClass.cs",
+              "RelativeDocumentMoniker": "ManagedLibrary\\DllClass.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\DllClass.cs",
+              "RelativeToolTip": "ManagedLibrary\\DllClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:47:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmMain.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmMain.cs",
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmMain.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmMain.cs",
               "RelativeToolTip": "WinFormsDemo\\FrmMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA2AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:59:02.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FrmMain.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmMain.cs",
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmMain.cs",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrmChild.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\WinFormsDemo\\FrmChild.cs",
               "RelativeDocumentMoniker": "WinFormsDemo\\FrmChild.cs",

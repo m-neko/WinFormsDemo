@@ -31,6 +31,12 @@
             colorDialog = new ColorDialog();
             lblWinName = new Label();
             btnShowChild = new Button();
+            grpDll = new GroupBox();
+            btnVbDll = new Button();
+            btnCppNativeDll = new Button();
+            btnCppCliDll = new Button();
+            btnCSharpDll = new Button();
+            grpDll.SuspendLayout();
             SuspendLayout();
             // 
             // lblWinName
@@ -54,11 +60,63 @@
             btnShowChild.UseVisualStyleBackColor = true;
             btnShowChild.Click += btnShowChild_Click;
             // 
+            // grpDll
+            // 
+            grpDll.Controls.Add(btnVbDll);
+            grpDll.Controls.Add(btnCppNativeDll);
+            grpDll.Controls.Add(btnCppCliDll);
+            grpDll.Controls.Add(btnCSharpDll);
+            grpDll.Location = new Point(12, 95);
+            grpDll.Name = "grpDll";
+            grpDll.Size = new Size(183, 208);
+            grpDll.TabIndex = 2;
+            grpDll.TabStop = false;
+            grpDll.Text = "DLLの呼出";
+            // 
+            // btnVbDll
+            // 
+            btnVbDll.Location = new Point(6, 66);
+            btnVbDll.Name = "btnVbDll";
+            btnVbDll.Size = new Size(171, 38);
+            btnVbDll.TabIndex = 6;
+            btnVbDll.Text = "VB.NET マネージド DLL";
+            btnVbDll.UseVisualStyleBackColor = true;
+            btnVbDll.Click += btnVbDll_Click;
+            // 
+            // btnCppNativeDll
+            // 
+            btnCppNativeDll.Location = new Point(5, 154);
+            btnCppNativeDll.Name = "btnCppNativeDll";
+            btnCppNativeDll.Size = new Size(171, 38);
+            btnCppNativeDll.TabIndex = 5;
+            btnCppNativeDll.Text = "C++ ネイティブ DLL";
+            btnCppNativeDll.UseVisualStyleBackColor = true;
+            // 
+            // btnCppCliDll
+            // 
+            btnCppCliDll.Location = new Point(5, 110);
+            btnCppCliDll.Name = "btnCppCliDll";
+            btnCppCliDll.Size = new Size(171, 38);
+            btnCppCliDll.TabIndex = 4;
+            btnCppCliDll.Text = "C++/CLI DLL";
+            btnCppCliDll.UseVisualStyleBackColor = true;
+            // 
+            // btnCSharpDll
+            // 
+            btnCSharpDll.Location = new Point(6, 22);
+            btnCSharpDll.Name = "btnCSharpDll";
+            btnCSharpDll.Size = new Size(171, 38);
+            btnCSharpDll.TabIndex = 3;
+            btnCSharpDll.Text = "C# マネージド DLL";
+            btnCSharpDll.UseVisualStyleBackColor = true;
+            btnCSharpDll.Click += btnCSharpDll_Click;
+            // 
             // FrmMain
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(409, 341);
+            ClientSize = new Size(409, 335);
+            Controls.Add(grpDll);
             Controls.Add(btnShowChild);
             Controls.Add(lblWinName);
             MaximizeBox = false;
@@ -66,6 +124,7 @@
             Name = "FrmMain";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "親ウインドウ";
+            grpDll.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -74,5 +133,10 @@
         private ColorDialog colorDialog;
         private Label lblWinName;
         private Button btnShowChild;
+        private GroupBox grpDll;
+        private Button btnCppCliDll;
+        private Button btnCSharpDll;
+        private Button btnCppNativeDll;
+        private Button btnVbDll;
     }
 }
