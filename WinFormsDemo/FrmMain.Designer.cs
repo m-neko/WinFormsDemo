@@ -36,6 +36,7 @@
             btnCppNativeDll = new Button();
             btnCppCliDll = new Button();
             btnCSharpDll = new Button();
+            btnCallComObj = new Button();
             grpDll.SuspendLayout();
             SuspendLayout();
             // 
@@ -54,7 +55,7 @@
             // 
             btnShowChild.Location = new Point(17, 51);
             btnShowChild.Name = "btnShowChild";
-            btnShowChild.Size = new Size(380, 38);
+            btnShowChild.Size = new Size(171, 38);
             btnShowChild.TabIndex = 1;
             btnShowChild.Text = "ウインドウ操作";
             btnShowChild.UseVisualStyleBackColor = true;
@@ -113,11 +114,22 @@
             btnCSharpDll.UseVisualStyleBackColor = true;
             btnCSharpDll.Click += btnCSharpDll_Click;
             // 
+            // btnCallComObj
+            // 
+            btnCallComObj.Location = new Point(212, 51);
+            btnCallComObj.Name = "btnCallComObj";
+            btnCallComObj.Size = new Size(171, 38);
+            btnCallComObj.TabIndex = 3;
+            btnCallComObj.Text = "COM呼出 (Shell32.dll)";
+            btnCallComObj.UseVisualStyleBackColor = true;
+            btnCallComObj.Click += btnCallComObj_Click;
+            // 
             // FrmMain
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(409, 335);
+            ClientSize = new Size(399, 335);
+            Controls.Add(btnCallComObj);
             Controls.Add(grpDll);
             Controls.Add(btnShowChild);
             Controls.Add(lblWinName);
@@ -140,5 +152,6 @@
         private Button btnCSharpDll;
         private Button btnCppNativeDll;
         private Button btnVbDll;
+        private Button btnCallComObj;
     }
 }

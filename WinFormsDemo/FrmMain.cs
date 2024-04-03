@@ -75,7 +75,7 @@ namespace WinFormsDemo
         private void btnCppNativeDll_Click(object sender, EventArgs e)
         {
             IntPtr hLib = LoadLibrary("NativeLibrary.dll");
-            if(hLib == IntPtr.Zero)
+            if (hLib == IntPtr.Zero)
             {
                 MessageBox.Show("DLLの読み込みに失敗しました");
                 return;
@@ -86,6 +86,12 @@ namespace WinFormsDemo
             int num = addIntNum(12, 8);
             MessageBox.Show("12 + 8 = " + num, "C++ ネイティブ DLL からの呼出");
             FreeLibrary(hLib);
+        }
+
+        private void btnCallComObj_Click(object sender, EventArgs e)
+        {
+            Shell32.Shell shell = new Shell32.Shell();
+            shell.Open(Path.GetDirectoryName(Application.ExecutablePath));
         }
     }
 }
