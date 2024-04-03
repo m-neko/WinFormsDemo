@@ -91,6 +91,7 @@
             btnCppNativeDll.TabIndex = 5;
             btnCppNativeDll.Text = "C++ ネイティブ DLL";
             btnCppNativeDll.UseVisualStyleBackColor = true;
+            btnCppNativeDll.Click += btnCppNativeDll_Click;
             // 
             // btnCppCliDll
             // 

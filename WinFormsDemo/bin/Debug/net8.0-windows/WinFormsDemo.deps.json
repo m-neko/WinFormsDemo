@@ -10,6 +10,7 @@
         "dependencies": {
           "CLRLibrary": "1.0.0",
           "ManagedLibrary": "1.0.0",
+          "NativeLibrary": "1.0.0",
           "VbManagedLibrary": "1.0.0"
         },
         "runtime": {

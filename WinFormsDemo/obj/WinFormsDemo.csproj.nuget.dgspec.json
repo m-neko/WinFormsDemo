@@ -136,6 +136,21 @@
         }
       }
     },
+    "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\NativeLibrary\\NativeLibrary.vcxproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\NativeLibrary\\NativeLibrary.vcxproj",
+        "projectName": "NativeLibrary",
+        "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\NativeLibrary\\NativeLibrary.vcxproj",
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
     "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\VbManagedLibrary\\VbManagedLibrary.vbproj": {
       "version": "1.0.0",
       "restore": {
@@ -235,6 +250,9 @@
               },
               "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\ManagedLibrary.csproj": {
                 "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\ManagedLibrary\\ManagedLibrary.csproj"
+              },
+              "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\NativeLibrary\\NativeLibrary.vcxproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\NativeLibrary\\NativeLibrary.vcxproj"
               },
               "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\VbManagedLibrary\\VbManagedLibrary.vbproj": {
                 "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Project\\WinFormsDemo\\VbManagedLibrary\\VbManagedLibrary.vbproj"

@@ -15,9 +15,21 @@ using CLRLibrary;
 
 namespace WinFormsDemo
 {
+
     public partial class FrmMain : Form
     {
         const uint WM_APP = 0x8000;
+
+        [DllImport("Kernel32.dll")]
+        extern static IntPtr LoadLibrary(string lpLibFileName);
+
+        [DllImport("Kernel32.dll")]
+        extern static bool FreeLibrary(IntPtr hLibModule);
+
+        [DllImport("Kernel32.dll")]
+        extern static IntPtr GetProcAddress(IntPtr hLibModule, string lpProcName);
+
+        delegate int addIntNumDelegate(int a, int b);
 
         public FrmMain()
         {
@@ -58,7 +70,22 @@ namespace WinFormsDemo
             DllCLRClass dllCLRClass = new DllCLRClass();
             int num = dllCLRClass.addIntNum(7, 9);
             MessageBox.Show("7 + 9 = " + num, "C++/CLI DLL からの呼出");
-            dllCLRClass.showMessage();
+        }
+
+        private void btnCppNativeDll_Click(object sender, EventArgs e)
+        {
+            IntPtr hLib = LoadLibrary("NativeLibrary.dll");
+            if(hLib == IntPtr.Zero)
+            {
+                MessageBox.Show("DLLの読み込みに失敗しました");
+                return;
+            }
+
+            IntPtr fp = GetProcAddress(hLib, "addIntNum");
+            addIntNumDelegate addIntNum = Marshal.GetDelegateForFunctionPointer<addIntNumDelegate>(fp);
+            int num = addIntNum(12, 8);
+            MessageBox.Show("12 + 8 = " + num, "C++ ネイティブ DLL からの呼出");
+            FreeLibrary(hLib);
         }
     }
 }

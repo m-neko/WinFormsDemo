@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VbManagedLibrary"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+569c8e82aca9f1d4782267685bcd26085d1654b6"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed767081950dab2cefb96287fc52c034286fbb6"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VbManagedLibrary"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VbManagedLibrary"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

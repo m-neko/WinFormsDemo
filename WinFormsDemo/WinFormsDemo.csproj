@@ -6,11 +6,13 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath></BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CLRLibrary\CLRLibrary.vcxproj" />
     <ProjectReference Include="..\ManagedLibrary\ManagedLibrary.csproj" />
+    <ProjectReference Include="..\NativeLibrary\NativeLibrary.vcxproj" />
     <ProjectReference Include="..\VbManagedLibrary\VbManagedLibrary.vbproj" />
   </ItemGroup>
 

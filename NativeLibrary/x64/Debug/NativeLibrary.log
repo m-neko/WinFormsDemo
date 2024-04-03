@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
+  pch.cpp
+  dllmain.cpp
+     ライブラリ ..\WinFormsDemo\bin\Debug\net8.0-windows\NativeLibrary.lib とオブジェクト ..\WinFormsDemo\bin\Debug\net8.0-windows\NativeLibrary.exp を作成中
+  NativeLibrary.vcxproj -> C:\Users\User\Documents\Visual Studio 2022\Project\WinFormsDemo\WinFormsDemo\bin\Debug\net8.0-windows\NativeLibrary.dll
